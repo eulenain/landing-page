@@ -9,6 +9,8 @@ I started with creating the barebones of the html file, and then filled the page
 
 I created the css file and started defining the main selectors. I noticed that I needed to divide the content even further to make the flex boxes work. Then I went ahead to narrow down the custom selectors.
 
+After narrowing them down and giving them values, I tried to get as close to the actual design as possible.
+
 Credit:
 
 Photo by Tranmautritam: <https://www.pexels.com/photo/ragdoll-cat-on-a-white-chair-384555/>
